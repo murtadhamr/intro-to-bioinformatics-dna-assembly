@@ -4,7 +4,7 @@ DNA sequence used in this project is Mucus SRA from NCBI. Code is partially insp
 
 Created by : 
 Muhammad Murtadha Ramadhan
-David Tahi Ulubalang
-Airlangga Visnhu Murthi
-Widia Sereniti
-Desi Putri Pertiwi
+<br/>David Tahi Ulubalang
+<br/>Airlangga Visnhu Murthi
+<br/>Widia Sereniti
+<br/>Desi Putri Pertiwi
