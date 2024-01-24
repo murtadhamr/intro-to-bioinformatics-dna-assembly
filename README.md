@@ -1,4 +1,4 @@
-# pengbio-dna-assembly
+# intro-to-bioinformatics-dna-assembly
 Final project of Introduction to Bioinformatics course to make DNA Assembly with Overlap Layout Consensus (OLC)
 DNA sequence used in this project is Mucus SRA from NCBI. Code is partially inspired by Munch Lab, Bioinformatics Research Centre, Aarhus University
 
